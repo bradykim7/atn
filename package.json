@@ -1,0 +1,37 @@
+{
+  "name": "atn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev" : "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradykim7/atn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradykim7/atn/issues"
+  },
+  "homepage": "https://github.com/bradykim7/atn#readme",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "encoding": "^0.1.12",
+    "express": "^4.17.1",
+    "hapi": "^18.1.0",
+    "iconv-lite": "^0.5.1",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.2",
+    "puppeteer": "^2.1.1",
+    "puppeteer-core": "^2.1.1",
+    "querystring": "^0.2.0",
+    "urlencode": "^1.1.0",
+    "utf8": "^3.0.0"
+  }
+}
