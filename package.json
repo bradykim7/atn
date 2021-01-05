@@ -20,7 +20,7 @@
   "homepage": "https://github.com/bradykim7/atn#readme",
   "dependencies": {
     "@hapi/hapi": "^19.1.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "encoding": "^0.1.12",
     "express": "^4.17.1",
